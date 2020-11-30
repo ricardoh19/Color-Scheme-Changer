@@ -1,0 +1,60 @@
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.buttons{
+    display:flex;
+    justify-content: center;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.button{
+    padding: 10px;
+    border-radius: 15px;
+}
+#first{
+    background-color: red;
+    margin: 3px;
+}
+
+#second{
+    background-color: orange;
+    margin: 3px;
+}
+
+#third{
+    background-color: yellow;
+    margin: 3px;
+}
+
+#fourth{
+    background-color: green;
+    margin: 3px;
+}
+
+#fifth{
+    background-color: blue;
+    margin: 3px;
+}
+
+#sixth{
+    background-color: indigo;
+    margin: 3px;
+}
+
+#seventh{
+    background-color: violet;
+    margin: 3px;
+}
+#reset{
+    background-color: white;
+    margin: 3px;
+}
